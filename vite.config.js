@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 
 export default defineConfig({
-  base: "/rickandmorty/",
+  base: '/rick-and-morty-explorer/',
   plugins: [
     tailwindcss(),
     react()],
